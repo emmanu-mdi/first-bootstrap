@@ -1,0 +1,45 @@
+body{
+    
+    font: 20px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menutop{
+    display: flex;
+    border-bottom: 1px solid #c4c4c4;
+    justify-content: center;    
+}
+.sobre{
+    background-color: #dadada;
+}
+.espaco{    
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+}
+.sobre-mim{
+    padding-top: 2rem;
+}
+.servicos{
+    background-color: antiquewhite;
+}
+.portfolio{
+    background-color: rgb(24, 23, 23);
+    color: #ffffff;
+}
+.card{
+    background-color: transparent;
+    border: 1px solid rgb(255 255 255 / 13%);   
+}
+.item-portfolio{
+    margin-right: 10px;
+}
+.titulo{
+    padding-bottom: 5px;
+    color: #B62F36;
+}
+.footer-style{
+    background-color: #B62F36;
+    font-size: 14px;
+    color: #ffffff;
+    padding-top: 1rem;  
+    padding-bottom: 0.1rem;  
+}
